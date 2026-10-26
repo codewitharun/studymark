@@ -3,6 +3,7 @@
 _Last updated: 26 Oct 2026 (Cowork)._
 
 ## Now
+- **Studymark = HabitAI + TaskFlow merged into one app** (habits/streaks + tasks/planner + focus + squads). Those are no longer separate projects.
 - **The relaunch is uncommitted on `main`** (76 changed paths): new tabs today / plan / squad / feed / me, focus mode with social lock, Android app blocker (Kotlin, `modules/app-blocker`), local study reminders, squads + chat, community feed, peer grading.
 - New backend: **Supabase (Mumbai)**, schema in `supabase/migrations/` (4 files, 15–16 Oct). Firebase kept only for push.
 - Root `README.md` still describes the old "TrackMe" app.
@@ -23,4 +24,5 @@ _Last updated: 26 Oct 2026 (Cowork)._
 - Designs: "Studymark Design" canvas artifact (claude.ai).
 
 ## Log
+- 26 Oct 2026: noted that HabitAI and TaskFlow are merged into Studymark.
 - 26 Oct 2026: STATUS.md/AGENTS.md added (committed alone; relaunch work still uncommitted).
